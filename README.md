@@ -1,6 +1,6 @@
 # Introduction
 
-Hello there! Welcome to data science project. Here you will learn the following case study:
+Hello there! Welcome to data science project. We're excited to connect with you through our project and share our passion for data science program. So, let's get started – here you will learn the following case study:
 
 1. [Project - Twitter Elaboration](https://nbviewer.org/github/AbelKristanto/studycase/blob/Learning/Training/Case%202%20-%20Twitter%20Elaboration.ipynb)
 2. [Simple Stocks Analysis](https://nbviewer.org/github/AbelKristanto/studycase/blob/Learning/Training/Case%201%20-%20Simple%20Stock%20Analysis.ipynb)
