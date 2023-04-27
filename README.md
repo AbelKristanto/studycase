@@ -8,4 +8,4 @@ Hello there! Welcome to data science project. Here you will learn the following 
 4. [Shopping Analysis](#)
 5. [Sport Analysis](#)
 
-Please don’t hesitate to contact [me](#) for any further assistance. Let's learn together!
+Please don’t hesitate to contact [me](www.linkedin.com/in/abelkrw) for any further assistance. Let's learn together!
